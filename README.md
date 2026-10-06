@@ -5,7 +5,7 @@
 ---
 
 <a name="english"></a>
-## 🚀 English Description
+##  English Description
 
 A high-performance, multi-threaded in-memory database engine built entirely from scratch in C++17. This project demonstrates core computer science concepts such as concurrency control, data persistence, and memory optimization without relying on external frameworks.
 
